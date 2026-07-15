@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Generated on each run (plots/CSVs regenerate from committed data/ CSVs)
+outputs/
+
+# Local Claude Code settings
+.claude/settings.local.json
