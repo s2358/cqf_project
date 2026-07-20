@@ -13,4 +13,7 @@ venv/
 outputs/
 
 # Local Claude Code settings
-.claude/settings.local.json
+.claude/
+
+# JetBrains IDE
+.idea/
